@@ -2,6 +2,7 @@
   "store.home": {
     "blocks": [
       "countdown",
+      "countdown.title",
       "info-card#clearance",
       "info-card#vintage",
       "flex-layout.row",
